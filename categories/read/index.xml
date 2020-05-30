@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>read on reijun</title>
+    <link>https://reijun.com/categories/read/</link>
+    <description>Recent content in read on reijun</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2020</copyright>
+    <lastBuildDate>Sat, 30 May 2020 10:37:15 +0800</lastBuildDate>
+    
+	<atom:link href="https://reijun.com/categories/read/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Books I have read</title>
+      <link>https://reijun.com/post/reading-thoughts/</link>
+      <pubDate>Sat, 30 May 2020 10:37:15 +0800</pubDate>
+      
+      <guid>https://reijun.com/post/reading-thoughts/</guid>
+      <description>I have a folder of notes which I use to record my thoughts on some book I read. Here are a collection of those notes for books I read in 2018 and 2019. Much spoilers, please skip if you intend to read. I don&amp;rsquo;t agree with everything I wrote back then, but here they are~
+Who moved my cheese Simple simple story of not overthink, feel sorry for yourself, and let emotions cloud your judgment, decisions and actions.</description>
+    </item>
+    
+  </channel>
+</rss>
