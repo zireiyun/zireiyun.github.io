@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2020</copyright>
-    <lastBuildDate>Sat, 30 May 2020 10:37:15 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 31 Dec 2020 18:23:51 +0800</lastBuildDate>
     
 	<atom:link href="https://reijun.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Bye to 2020</title>
+      <link>https://reijun.com/post/new-2021/</link>
+      <pubDate>Thu, 31 Dec 2020 18:23:51 +0800</pubDate>
+      
+      <guid>https://reijun.com/post/new-2021/</guid>
+      <description> Got a full time permanent position CNY dinner with family and coworkers, last with grandpa Colleague joined and quit within 2 months Empty trains and food places before lockdown Lockdown for 2 months Went to work half day, 1 day, 2 days, 3 days a week Many colleagues quit Applied twice and failed Got a job offer but got scammed to not take it Did new stuff Wear black masks Lose and gained weight Hattenna for christmas Less meetings Found pinkbear  </description>
+    </item>
     
     <item>
       <title>Books I have read</title>
@@ -47,7 +56,7 @@ Somehow, people get distracted and decide against that path.</description>
       <pubDate>Sat, 16 May 2020 17:55:17 +0800</pubDate>
       
       <guid>https://reijun.com/about/</guid>
-      <description>Hello there Nice to meet you. I value leveraging data and design to deliver the best performance.</description>
+      <description>Welcome I sometimes add posts to this webpage.</description>
     </item>
     
   </channel>
