@@ -7,10 +7,29 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2020</copyright>
-    <lastBuildDate>Thu, 31 Dec 2020 18:23:51 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 24 Sep 2021 13:22:30 +0800</lastBuildDate>
     
 	<atom:link href="https://reijun.com/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Website Reference</title>
+      <link>https://reijun.com/post/reference-website-commands/</link>
+      <pubDate>Fri, 24 Sep 2021 13:22:30 +0800</pubDate>
+      
+      <guid>https://reijun.com/post/reference-website-commands/</guid>
+      <description>This page summarises the commands used to build this site to save time on looking up as this writer posts too infrequently and forgets.
+ Website creating commands To create new post:
+hugo new post/my-first-post.md
+and edit new markdown file after.
+To start hugo server with drafts enabled:
+hugo server -D
+and navigate to http://localhost:1313/.
+To build static pages:
+hugo -D
+then copy to repository and push.
+ Markdown and Style Guide Use H4 for headings</description>
+    </item>
     
     <item>
       <title>Bye to 2020</title>
