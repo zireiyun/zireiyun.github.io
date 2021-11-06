@@ -6,11 +6,21 @@
     <description>Recent content on reijun</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2020</copyright>
-    <lastBuildDate>Fri, 24 Sep 2021 13:22:30 +0800</lastBuildDate>
+    <copyright>&amp;copy; 2021</copyright>
+    <lastBuildDate>Sat, 06 Nov 2021 13:22:30 +0800</lastBuildDate>
     
 	<atom:link href="https://reijun.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Inspired</title>
+      <link>https://reijun.com/post/inspired/</link>
+      <pubDate>Sat, 06 Nov 2021 13:22:30 +0800</pubDate>
+      
+      <guid>https://reijun.com/post/inspired/</guid>
+      <description>I was recommended this book by a supervisor I had. I think of it as a farewell present from the supervisor I worked with for close to 2 years. The first 2 years of work that was not the most smooth sailing, but I have seen my growth that has not come very easily.
+The book is kind of like a manual on how to be a product manager, with job descriptions of each member of a product team; tools, methods and processes used by the team.</description>
+    </item>
     
     <item>
       <title>Website Reference</title>
